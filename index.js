@@ -2,7 +2,7 @@
 
 const todayMenuBeverageType = {
         'rulanda':{'size': ['short', 'small', 'medium', 'large']},
-        'chai':{'size': ['small', 'short']}
+        'muller':{'size': ['small', 'short']}
 };
 
 // --------------- Helpers to build responses which match the structure of the necessary dialog actions -----------------------
